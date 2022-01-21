@@ -6,7 +6,7 @@ const typeMapping = {
   KAFKA: 'kafka',
   POSTGRESQL: 'postgresql',
   REDIS: 'redis',
-  MONGO: 'mongodb'
+  MONGODB: 'mongodb'
 };
 
 // depending on the type of the key this will
